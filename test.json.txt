@@ -1,2 +1,3 @@
 { "name" : "Aart",
-"phone no" : "555555"}
+"phone no" : "555555"
+"email" : "aaa@gmail.com"}
